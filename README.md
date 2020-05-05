@@ -1,4 +1,4 @@
-# Häfte 03 Övning 12: Startkod
+# Häfte 03 Övning 12 med startkod
 Startkod till övning 12 i tredje programmeringshäftet.
 
 I denna, lite större övning ska du skapa ett program som hanterar en att göra-lista. Programmet
